@@ -1,0 +1,7 @@
+C:\Users\liam j\coding\github projects\Projects\fizzbuzz\fizzbuzz\bin\Debug\fizzbuzz.exe.config
+C:\Users\liam j\coding\github projects\Projects\Text\fizzbuzz\fizzbuzz\bin\Debug\fizzbuzz.exe.config
+C:\Users\liam j\coding\github projects\Projects\Text\fizzbuzz\fizzbuzz\obj\Debug\fizzbuzz.csprojResolveAssemblyReference.cache
+C:\Users\liam j\coding\github projects\Projects\Text\fizzbuzz\fizzbuzz\bin\Debug\fizzbuzz.exe
+C:\Users\liam j\coding\github projects\Projects\Text\fizzbuzz\fizzbuzz\bin\Debug\fizzbuzz.pdb
+C:\Users\liam j\coding\github projects\Projects\Text\fizzbuzz\fizzbuzz\obj\Debug\fizzbuzz.exe
+C:\Users\liam j\coding\github projects\Projects\Text\fizzbuzz\fizzbuzz\obj\Debug\fizzbuzz.pdb
